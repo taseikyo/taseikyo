@@ -30,5 +30,7 @@
     <a href="https://github.com/taseikyo">
       <img src="https://github-readme-stats.vercel.app/api?username=taseikyo&show_icons=true&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taseikyo&&layout=compact" />
+      <img src="https://github-profile-trophy.vercel.app/?username=taseikyo" />
+      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/eveonecat-train.gif" />
     </a>
 </div>
