@@ -4,8 +4,8 @@
   </a>
   <br>
   <p>
-    <a href="https://www.zhihu.com/people/qing-shen-bu-shou-luv">
-      <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/zhihu.svg" title="zhihu" />
+    <a href="https://medium.com/@taseikyo">
+      <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/medium.svg" title="Medium" />
     </a>
     <a href="https://stackoverflow.com/users/7669794/taseikyo">
       <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/stackoverflow.svg" title="stackoverflow" />
