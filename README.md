@@ -31,6 +31,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=taseikyo&show_icons=true&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taseikyo&hide_border=true&layout=compact&langs_count=8" />
       <img src="https://github-profile-trophy.vercel.app/?username=taseikyo" />
-      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/15.gif" />
+      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/13.gif" />
     </a>
 </div>
