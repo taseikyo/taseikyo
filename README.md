@@ -32,8 +32,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taseikyo&hide_border=true&layout=compact&langs_count=8" />
     </a>
   </p>
-      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/11.gif" />
-      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/22.gif" />
       <img src="https://github.com/taseikyo/taseikyo/blob/master/images/21.gif" />
       <img src="https://github.com/taseikyo/taseikyo/blob/master/images/19.gif" />
+      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/15.gif" />
+      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/7.gif" />
 </div>
