@@ -10,7 +10,7 @@
     <a href="https://stackoverflow.com/users/7669794/taseikyo">
       <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/stackoverflow.svg" title="stackoverflow" />
     </a>
-    <a href="mailto:taseikyo@qq.com">
+    <a href="mailto:taseikyo@gmail.com">
       <img width="18" height="18" src="https://github.com/taseikyo/taseikyo/blob/master/images/email.svg" title="email" />
     </a>
   </p>
@@ -30,7 +30,10 @@
     <a href="https://github.com/taseikyo">
       <img src="https://github-readme-stats.vercel.app/api?username=taseikyo&show_icons=true&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taseikyo&hide_border=true&layout=compact&langs_count=8" />
-      <img src="https://github-profile-trophy.vercel.app/?username=taseikyo" />
-      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/17.gif" />
     </a>
+  </p>
+    <img src="https://github.com/taseikyo/taseikyo/blob/master/images/1.gif" />
+    <img src="https://github.com/taseikyo/taseikyo/blob/master/images/2.gif" />
+    <img src="https://github.com/taseikyo/taseikyo/blob/master/images/3.gif" />
+    <img src="https://github.com/taseikyo/taseikyo/blob/master/images/4.gif" />
 </div>
