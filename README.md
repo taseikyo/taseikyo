@@ -28,8 +28,8 @@
   <p>Hi, I'm Lewis, a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.</p>
   <p>
     <a href="https://github.com/taseikyo">
-      <img src="https://github-readme-stats.vercel.app/api?username=taseikyo&show_icons=true&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taseikyo&hide_border=true&layout=compact&langs_count=8" />
+      <img src="https://github-stats-extended.vercel.app/api?username=taseikyo&show_icons=true&hide_border=true" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=taseikyo&hide_border=true&layout=compact&langs_count=8" />
     </a>
   </p>
       <img src="https://github.com/taseikyo/taseikyo/blob/master/images/9.gif" />
